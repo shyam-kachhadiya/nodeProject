@@ -1,0 +1,23 @@
+{
+  "name": "sample_postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyam-kachhadiya/nodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyam-kachhadiya/nodeProject/issues"
+  },
+  "homepage": "https://github.com/shyam-kachhadiya/nodeProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "open": "^8.2.0"
+  }
+}
